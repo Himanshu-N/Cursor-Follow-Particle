@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MousePop : MonoBehaviour
+public class CursorFollowUI : MonoBehaviour
 {
     [SerializeField] Camera uiCam;
     RectTransform rectTransform;
